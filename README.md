@@ -1,6 +1,8 @@
 # Pick-a-Number-Game
 Pick a Number game created with python (GUI)
 
+""Without the Resource File the project doesn't work save both the .py file and resources folder in a single file and access it"""
+
 This game is built using Python (Tkinter and random).
 Here the user is supposed to guess a number between the range of numbers .
 Pick a Number game has 3 modes.
